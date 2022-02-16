@@ -1,0 +1,10 @@
+train: F:\\WBC_classify\\wbc_5classify_data\\train.txt
+val: F:\\WBC_classify\\wbc_5classify_data\\val.txt
+test: F:\\WBC_classify\\wbc_5classify_data\\test.txt
+
+# number of classes
+nc: 5
+
+#class names
+#names:  ["Neu","Lym","Eos","Bas", "Mon", "Pla", "Deb"]
+names:  ["Neu","Lym","Eos","Bas", "Mon"]
