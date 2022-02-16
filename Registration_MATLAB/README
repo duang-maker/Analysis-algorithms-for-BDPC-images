@@ -1,0 +1,4 @@
+Step 1: Coarse Registration
+Run: regis_findcir
+Step 2: Fine Registration
+Run: fineregister
